@@ -21,3 +21,5 @@ function resposta(nota) {
             return 'nota invalida'
     }
 }
+
+console.log("Consegui")
